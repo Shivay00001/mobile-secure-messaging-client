@@ -1,8 +1,3 @@
-# Mobile Secure Messaging Client
+# mobile secure messaging client
 
-This repository contains the source code and configuration for **mobile-secure-messaging-client**, a part of the advanced engineering showcase.
-
-## Features
-- Professional-grade architecture
-- Clean code principles
-- Ready for production deployment
+A complete, production-grade enterprise solution. Ready for deployment.
